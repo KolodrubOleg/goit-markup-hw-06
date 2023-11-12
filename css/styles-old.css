@@ -32,7 +32,7 @@ margin: 0 auto;
     
 }
     
-/* Header */
+/*============ Header============== */
 
 .header-main {
 
@@ -249,7 +249,7 @@ margin-bottom: 8px;
     font-style: normal;
 }
 
-/* Section-Team 3 */
+/*============= Section-Team 3 =========*/
 
 
 
@@ -320,8 +320,6 @@ border-radius: 0px 0px 4px 4px;
 
 
 
-
-
 .icon-team-list {
 display: flex;
 justify-content: center;
@@ -332,8 +330,6 @@ margin-top: 8px;
  .icon-team-item {
 width: 40px;
 height: 40px;
-
-
  }
 
 .icon-team-item-link {
