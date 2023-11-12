@@ -666,9 +666,11 @@ input::placeholder {
             color: #2E2F42;
             margin-bottom: 16px;
         }
+
         .modal-wrapper-conteiner {
             margin-bottom: 8px;
         }
+        
                .modal-wrapper-label {
                 font-size: 12px;
                 line-height: 1.17;
@@ -703,10 +705,6 @@ input::placeholder {
                         .modal-input:focus + .modal-form-icon {
                             fill: #4D5AE5;
                         }
-
-      
-
-
 
                         .modal-form-icon {
                             position: absolute;
